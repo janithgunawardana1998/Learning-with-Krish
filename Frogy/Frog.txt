@@ -1,0 +1,15 @@
+import java.util.Scanner;
+
+public class Frogy{
+
+	public static void main(String args[]) { 
+
+	
+		
+                System.out.print("Enter The Distance In Meters");	
+		Scanner input = new Scanner(System.in); 
+		
+		
+}
+
+     }
